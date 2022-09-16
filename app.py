@@ -1,5 +1,4 @@
 from flask import Flask,render_template, url_for ,flash , redirect
-import joblib
 from flask import request
 import numpy as np
 import os
