@@ -4,7 +4,7 @@ from flask import request
 import numpy as np
 import os
 import pickle
-from werkzeug.utils import secure_filename
+# from werkzeug.utils import secure_filename
 from keras.models import load_model
 import text_hammer as th
 
