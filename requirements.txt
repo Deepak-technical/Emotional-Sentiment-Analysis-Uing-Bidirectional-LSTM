@@ -1,0 +1,14 @@
+Flask
+gunicorn==20.1.0
+Jinja2==2.11.3
+Werkzeug==1.0.1
+numpy==1.20.1
+scipy==1.7.0
+scikit-learn==0.24.1
+matplotlib==3.3.4
+pandas==1.2.4
+MarkupSafe==1.1.1
+plotly==5.6.0
+keras==2.8.0
+pystan==2.19.1.1
+xgboost==1.5.2
