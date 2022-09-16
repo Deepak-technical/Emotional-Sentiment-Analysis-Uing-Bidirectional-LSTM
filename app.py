@@ -60,7 +60,7 @@ def predict():
         elif(emotion==2):
             output_emotion="The Sentence has a Happy and Love Emotion Sentiment"    
         elif(emotion==3):
-            output_emotion="The Sentence has a Sadness Sentiment"
+            output_emotion="The Sentence has a Sadness and Dullness Sentiment"
         elif(emotion==4):
             output_emotion="The Sentence has a fear Sentiment"
         elif(emotion==5):
